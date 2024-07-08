@@ -1,10 +1,10 @@
 # VendorSync
 
-_Ever wonder how many support tickets submitted by users acquired from a specific ad campaign?_
-_What's your NPS score, by email campaign?_
-_What's the refund rate of users who use a specific feature in your app?_
-_Are your sales people notified when their lead submits a support ticket?_
-_Can you email sales leads who tried your app in the last 7 days and didn't convert?_
+_Ever wonder how many support tickets submitted by users acquired from a specific ad campaign?_ <br/>
+_What's your NPS score, by email campaign?_ <br/>
+_What's the refund rate of users who use a specific feature in your app?_ <br/>
+_Are your sales people notified when their lead submits a support ticket?_ <br/>
+_Can you email sales leads who tried your app in the last 7 days and didn't convert?_ 
 
 These are all great questions to ask, but they require data from disparate sources.
 Some require internal app data, others require data from a CRM, payment provider, email service, or even a spreadsheet.
