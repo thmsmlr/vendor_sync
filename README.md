@@ -6,13 +6,13 @@
 > _Are your sales people notified when their lead submits a support ticket?_ <br/>
 > _Can you email sales leads who tried your app in the last 7 days and didn't convert?_ 
 
-These are all great questions to ask, but they require data from disparate sources.
-Some require internal app data, others require data from a CRM, payment provider, email service, or even a spreadsheet.
-You can't answer these questions, let alone build automations around them because the data isn't in a single database.
+These are all valuable questions, but answering them requires data from multiple sources.
+Some need internal application data, while others rely on information from CRMs, payment providers, email services, or spreadsheets.
+Answering these questions or building automations around them is challenging because the data is scattered across different systems rather than consolidated in a single database.
 
-VendorSync is a reverse ETL tool for Elixir that lets you sync data in various SaaS vendors into your database. 
-It varies by vendor, but there is typically a backfill job and a Genserver that continusouly sync's the latest changes.
-For details on a specific SaaS vendor, check out [the documentation.](#).
+VendorSync is a reverse ETL tool for Elixir that synchronizes data from various SaaS vendors into your database. 
+The synchronization process typically involves a backfill job and a GenServer that continuously updates with the latest changes, though this may vary by vendor.
+For detailed information on specific SaaS vendors, please refer to [the documentation](#).
 
 ## Supported SaaS Vendors
 
