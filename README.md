@@ -16,7 +16,7 @@ For details on a specific SaaS vendor, check out [the documentation.](#).
 
 ## Supported SaaS Vendors
 
-- [x] Stripe ([Setup Guide](./lib/stripe/schemas.ex))
+- [x] Stripe ([Setup Guide](./lib/stripe/stripe.ex))
 - [ ] Google Sheets
 - [ ] Hubspot
 - [ ] Salesforce
