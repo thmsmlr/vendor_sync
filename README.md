@@ -10,7 +10,7 @@ These are all valuable questions, but answering them requires data from multiple
 Some need internal application data, while others rely on information from CRMs, payment providers, email services, or spreadsheets.
 Answering these questions or building automations around them is challenging because the data is scattered across different systems rather than consolidated in a single database.
 
-VendorSync is a reverse ETL tool for Elixir that synchronizes data from various SaaS vendors into your database. 
+VendorSync is a ETL tool for Elixir that synchronizes data from various SaaS vendors into your database. 
 The synchronization process typically involves a backfill job and a GenServer that continuously updates with the latest changes, though this may vary by vendor.
 For detailed information on specific SaaS vendors, please refer to [the documentation](#).
 
@@ -34,6 +34,11 @@ def deps do
   ]
 end
 ```
+
+## Companies using this in production
+
+***Your company could be here, create an issue, please let me know!***
+
 
 ### Maybe?
 
